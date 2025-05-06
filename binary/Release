@@ -1,17 +1,21 @@
-Date: Tue, 06 May 2025 18:33:51 +0000
+Codename: binary
+Date: Tue, 06 May 2025 18:36:20 +0000
+Label: aquario
+Origin: aquario
+Suite: stable
 MD5Sum:
  d41d8cd98f00b204e9800998ecf8427e                0 Packages
  eaf754821f3fd8c7dceae8464eba68b7               29 Packages.gz
- 42f8e13409f0610f4c9caecf835c0761               38 Release
+ 55d5906cf4ec05e755ee22be62cf1212              100 Release
 SHA1:
  da39a3ee5e6b4b0d3255bfef95601890afd80709                0 Packages
  7df5ebf54a39de1a4b972b63e97ad67ee23740dd               29 Packages.gz
- 03d70d5df67724dbfa84a6834756cd93109a1162               38 Release
+ 0f5bb3a74e610fbb240bc075a3c9c2a97ef2acf1              100 Release
 SHA256:
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855                0 Packages
  44b24d76564c653362d1e5f4a7ac9950178a7a0fa256eca9fef6e4d28984ac5a               29 Packages.gz
- 4bce1c29727dcb12f355c625cc76f50dcfc6c967f75d14e9dfd13459afa1dd03               38 Release
+ 87781509b947059ea967175dac53d88b6c501c7e3a368dbfb2f696996a98382d              100 Release
 SHA512:
  cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e                0 Packages
  4b6a04e8f851844083a12eb5192583702002078b2bb842477b3243df8a2d7f089100d65e93ac4e3e622c862f4a2f27ec65bb47f494465aa2d1510c0439821cf5               29 Packages.gz
- 36d35134143864b09572b55d29c727da5b477f96c0eff7d2f63dfc2654dfe7458dc506ff723dc3ed75e5268d17a20ab57a2874bdd13c0ffc6291ade1c8507451               38 Release
+ e47beda9ccc84ea1529151da3dc6de86bf4fd8ad01fd02dc1ba10341bfd59883139dc08cd5ee3611ff4d342d2c982a556fce106d9eea0d32b826c4ad36699201              100 Release
