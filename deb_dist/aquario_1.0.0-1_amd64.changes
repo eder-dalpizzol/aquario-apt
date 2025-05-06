@@ -1,0 +1,26 @@
+Format: 1.8
+Date: Tue, 06 May 2025 13:54:50 -0300
+Source: aquario
+Binary: python3-aquario
+Built-For-Profiles: noudeb
+Architecture: all
+Version: 1.0.0-1
+Distribution: unstable
+Urgency: low
+Maintainer: None <None>
+Changed-By: None <None>
+Description:
+ python3-aquario - Aquário animado que roda no terminal
+Changes:
+ aquario (1.0.0-1) unstable; urgency=low
+ .
+   * source package automatically created by stdeb 0.10.1
+Checksums-Sha1:
+ 4d8a0c5dfbe8441bc762dad3f50426a4518f9120 7155 aquario_1.0.0-1_amd64.buildinfo
+ 250cba5ac308ed5568244d2615388bc1a25f33e9 3684 python3-aquario_1.0.0-1_all.deb
+Checksums-Sha256:
+ e70539014639d8f324f5bca0f8280b4d16439f6809c8040768c3d2be9eefa946 7155 aquario_1.0.0-1_amd64.buildinfo
+ 7e27da6552d9706941942cf0989ce0df7a431fd84266fde8f7c68eddf299ed60 3684 python3-aquario_1.0.0-1_all.deb
+Files:
+ b3c381ef4e0d8cfafc77cc9e04e08717 7155 python optional aquario_1.0.0-1_amd64.buildinfo
+ a0a34677fe8902655b9e7102234c4b3d 3684 python optional python3-aquario_1.0.0-1_all.deb

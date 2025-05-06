@@ -1,0 +1,10 @@
+README.md
+setup.py
+aquario/__init__.py
+aquario/__main__.py
+aquario/aquario.py
+aquario.egg-info/PKG-INFO
+aquario.egg-info/SOURCES.txt
+aquario.egg-info/dependency_links.txt
+aquario.egg-info/entry_points.txt
+aquario.egg-info/top_level.txt

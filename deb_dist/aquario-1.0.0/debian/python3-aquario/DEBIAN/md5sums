@@ -1,0 +1,9 @@
+a9192332d0713f824e8772c3756ec32f  usr/bin/aquario
+dd55e523d57708e4fbe23c4e0898dbc8  usr/lib/python3/dist-packages/aquario-1.0.0.egg-info/PKG-INFO
+68b329da9893e34099c7d8ad5cb9c940  usr/lib/python3/dist-packages/aquario-1.0.0.egg-info/dependency_links.txt
+93315d3785c5b09341a12133ac4b45ff  usr/lib/python3/dist-packages/aquario-1.0.0.egg-info/entry_points.txt
+45186bd982ea28f8f99ae2ce230cff50  usr/lib/python3/dist-packages/aquario-1.0.0.egg-info/top_level.txt
+d41d8cd98f00b204e9800998ecf8427e  usr/lib/python3/dist-packages/aquario/__init__.py
+c95fd477cb01170874b2681409c98758  usr/lib/python3/dist-packages/aquario/__main__.py
+29f589d69ad7505ab2940cf5ee0319b6  usr/lib/python3/dist-packages/aquario/aquario.py
+81caad41aebeb328b709531a5fe19af3  usr/share/doc/python3-aquario/changelog.Debian.gz
