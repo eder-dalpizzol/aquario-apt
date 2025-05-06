@@ -1,0 +1,17 @@
+Package: python3-aquario
+Source: aquario
+Version: 1.0.0-1
+Architecture: all
+Maintainer: None <None>
+Installed-Size: 25
+Depends: python3:any
+Filename: ./python3-aquario_1.0.0-1_all.deb
+Size: 3684
+MD5sum: a0a34677fe8902655b9e7102234c4b3d
+SHA1: 250cba5ac308ed5568244d2615388bc1a25f33e9
+SHA256: 7e27da6552d9706941942cf0989ce0df7a431fd84266fde8f7c68eddf299ed60
+Section: python
+Priority: optional
+Homepage: None
+Description: Aquário animado que roda no terminal
+
