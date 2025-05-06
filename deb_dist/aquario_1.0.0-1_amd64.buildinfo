@@ -4,14 +4,14 @@ Binary: python3-aquario
 Architecture: all
 Version: 1.0.0-1
 Checksums-Md5:
- c280f9d7e08125fdc2e0ad355abcc4e6 3692 python3-aquario_1.0.0-1_all.deb
+ 2f39bb71835a0360a0a7bccba124ced7 3692 python3-aquario_1.0.0-1_all.deb
 Checksums-Sha1:
- ec84cf42284c14ed9e76e199f84f6b22422bec3e 3692 python3-aquario_1.0.0-1_all.deb
+ 5ff4d97a7b206ed3f00d31e60d7c8b46158445d8 3692 python3-aquario_1.0.0-1_all.deb
 Checksums-Sha256:
- ee0cb757609184ed3c3b0531b5c6b7e562e25c0e26412ad5b8d5f6ca3f2cb42b 3692 python3-aquario_1.0.0-1_all.deb
+ 1a1f28516195b9a74948c9e69bfface48e7abba3c354e0527336db1ded1a2d69 3692 python3-aquario_1.0.0-1_all.deb
 Build-Origin: Ubuntu
 Build-Architecture: amd64
-Build-Date: Tue, 06 May 2025 15:11:29 -0300
+Build-Date: Tue, 06 May 2025 15:33:29 -0300
 Build-Tainted-By:
  merged-usr-via-aliased-dirs
  usr-local-has-includes
@@ -207,4 +207,4 @@ Environment:
  DEB_BUILD_OPTIONS="parallel=12"
  DEB_BUILD_PROFILES="noudeb"
  LANG="en_US.UTF-8"
- SOURCE_DATE_EPOCH="1746555083"
+ SOURCE_DATE_EPOCH="1746556403"

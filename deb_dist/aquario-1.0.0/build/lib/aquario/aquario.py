@@ -135,3 +135,7 @@ while True:
     print("+" + "-" * WIDTH + "+")
 
     time.sleep(0.2)
+
+
+if __name__ == "__main__":
+    main()
