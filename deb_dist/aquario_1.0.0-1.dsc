@@ -10,11 +10,11 @@ Build-Depends: python3-setuptools, python3-all, debhelper (>= 9)
 Package-List:
  python3-aquario deb python optional arch=all
 Checksums-Sha1:
- 8a6846b028bf0ba90cf3c5f4dfa1dc71e7b61cd0 2536 aquario_1.0.0.orig.tar.gz
- e493b1459927d787848d905a16a70971b734cce2 900 aquario_1.0.0-1.debian.tar.xz
+ 0f0f8d96ee5c5efae0bf0999c29ea4456192bac7 2533 aquario_1.0.0.orig.tar.gz
+ 704d9181b0a6fb045fc9bc4dd80b53badc27221c 900 aquario_1.0.0-1.debian.tar.xz
 Checksums-Sha256:
- 62761d53770b8611c969921a6e670cc351b8c973a12c8dc0807d28b8a71bd7bc 2536 aquario_1.0.0.orig.tar.gz
- 62e5498a009c9fddec3bc407dac958cf36874054b626636c2e7a1e8569d26543 900 aquario_1.0.0-1.debian.tar.xz
+ 1b595e06295639fd60c4992f326796267b31bafb69092b9d51f7d5e668ccef76 2533 aquario_1.0.0.orig.tar.gz
+ c9c422dc93dc506e1a8ecad69283446706120605af2984b449335f529d78b989 900 aquario_1.0.0-1.debian.tar.xz
 Files:
- 5565d43ff8113de45558f89f2de2bb95 2536 aquario_1.0.0.orig.tar.gz
- 6e3713696982c2bc64b7519f020faf4e 900 aquario_1.0.0-1.debian.tar.xz
+ 47c9d99c7c2ef403d8bee7e2212c3701 2533 aquario_1.0.0.orig.tar.gz
+ 26252a1d193d323358a240ed972d766a 900 aquario_1.0.0-1.debian.tar.xz

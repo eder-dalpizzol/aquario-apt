@@ -1,2 +1,2 @@
 [console_scripts]
-aquario = aquario.game:main
+aquario = aquario.aquario:main

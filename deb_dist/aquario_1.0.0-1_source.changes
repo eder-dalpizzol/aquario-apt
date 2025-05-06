@@ -1,5 +1,5 @@
 Format: 1.8
-Date: Tue, 06 May 2025 13:54:50 -0300
+Date: Tue, 06 May 2025 15:11:23 -0300
 Source: aquario
 Built-For-Profiles: noudeb
 Architecture: source
@@ -13,17 +13,17 @@ Changes:
  .
    * source package automatically created by stdeb 0.10.1
 Checksums-Sha1:
- 1b3b853000cbf62b655ce031cb3146392c4cd0fa 804 aquario_1.0.0-1.dsc
- 8a6846b028bf0ba90cf3c5f4dfa1dc71e7b61cd0 2536 aquario_1.0.0.orig.tar.gz
- e493b1459927d787848d905a16a70971b734cce2 900 aquario_1.0.0-1.debian.tar.xz
- 4f5f56ac741a8c81596bdd232d1f942bdbd4a385 7095 aquario_1.0.0-1_source.buildinfo
+ 9852cbe1d36ff155ede3fa304b5844817b7a851e 804 aquario_1.0.0-1.dsc
+ 0f0f8d96ee5c5efae0bf0999c29ea4456192bac7 2533 aquario_1.0.0.orig.tar.gz
+ 704d9181b0a6fb045fc9bc4dd80b53badc27221c 900 aquario_1.0.0-1.debian.tar.xz
+ 5cbb331c4a1dc2f9d7fdc196d3198576b7ba565f 7095 aquario_1.0.0-1_source.buildinfo
 Checksums-Sha256:
- d535ad90c50a9dda5bf61586123e15896c44d8b1bfd4082e999411ef56c43ce9 804 aquario_1.0.0-1.dsc
- 62761d53770b8611c969921a6e670cc351b8c973a12c8dc0807d28b8a71bd7bc 2536 aquario_1.0.0.orig.tar.gz
- 62e5498a009c9fddec3bc407dac958cf36874054b626636c2e7a1e8569d26543 900 aquario_1.0.0-1.debian.tar.xz
- 88570024cde29ab799476d494446104461da9526de810999df38b47fe97bb34c 7095 aquario_1.0.0-1_source.buildinfo
+ 06899d5b57fe5b1b943e30052837ef386429a2b72ed718da8b6f97e50ff0eccc 804 aquario_1.0.0-1.dsc
+ 1b595e06295639fd60c4992f326796267b31bafb69092b9d51f7d5e668ccef76 2533 aquario_1.0.0.orig.tar.gz
+ c9c422dc93dc506e1a8ecad69283446706120605af2984b449335f529d78b989 900 aquario_1.0.0-1.debian.tar.xz
+ cc56f6fa9be9e9e9c9fcf63f039a9830cf76c100e045e5f12f9f6e0247bdd011 7095 aquario_1.0.0-1_source.buildinfo
 Files:
- 0969be842997307570cd3dd980798238 804 python optional aquario_1.0.0-1.dsc
- 5565d43ff8113de45558f89f2de2bb95 2536 python optional aquario_1.0.0.orig.tar.gz
- 6e3713696982c2bc64b7519f020faf4e 900 python optional aquario_1.0.0-1.debian.tar.xz
- eae228d4f31dbc80b637d799805b4c5a 7095 python optional aquario_1.0.0-1_source.buildinfo
+ db9b572aefebba648f01ad4298d2ae9e 804 python optional aquario_1.0.0-1.dsc
+ 47c9d99c7c2ef403d8bee7e2212c3701 2533 python optional aquario_1.0.0.orig.tar.gz
+ 26252a1d193d323358a240ed972d766a 900 python optional aquario_1.0.0-1.debian.tar.xz
+ bb7d63b99db59d55ce1a3e4543c2a5ae 7095 python optional aquario_1.0.0-1_source.buildinfo

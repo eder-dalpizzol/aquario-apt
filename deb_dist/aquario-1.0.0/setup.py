@@ -10,6 +10,6 @@ setup(
     long_description=README,                 # <- precisa existir
     long_description_content_type="text/markdown",
     packages=find_packages(),
-    entry_points={"console_scripts": ["aquario=aquario.game:main"]},
+    entry_points={"console_scripts": ["aquario=aquario.aquario:main"]},
     python_requires=">=3.8",
 )
